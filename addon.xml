@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.xbmc-kodi.cz"
+        name="XBMC-Kodi CZ/SK repozitář" 
+        version="1.0.0"
+        provider-name="XBMC-Kodi.cz">
+        
+    <extension point="xbmc.addon.repository">
+        <info>https://repo.xbmc-kodi.cz/addons/addons.xml.gz</info>
+        <checksum verify="sha256">https://repo.xbmc-kodi.cz/addons/addons.xml.sha256</checksum>
+        <datadir zip="true">https://repo.xbmc-kodi.cz/addons/</datadir>
+        <hashes>sha256</hashes>
+    </extension>
+
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary>Česko-slovenská komunita fanoušků XBMC/Kodi</summary>
+        <description>Repozitář pro česko-slovenskou komunitu fanoušků XBMC/Kodi</description>
+    </extension>
+</addon>
