@@ -7,8 +7,8 @@
         <dir>
             <info>https://mirror.xbmc-kodi.cz/addons/omega/addons.xml.gz</info>
             <checksum verify="sha256">https://mirror.xbmc-kodi.cz/addons/omega/addons.xml.gz?sha256</checksum>
-            <datadir>https://mirror.xbmc-kodi.cz/addons/matrix/</datadir>
-            <artdir>https://mirror.xbmc-kodi.cz/addons/matrix/</artdir>
+            <datadir>https://mirror.xbmc-kodi.cz/addons/omega/</datadir>
+            <artdir>https://mirror.xbmc-kodi.cz/addons/omega/</artdir>
             <hashes>sha256</hashes>
         </dir>
     </extension>
